@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\bin\Debug\net6.0\ThreadObjects.exe
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\bin\Debug\net6.0\ThreadObjects.deps.json
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\bin\Debug\net6.0\ThreadObjects.runtimeconfig.json
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\bin\Debug\net6.0\ThreadObjects.dll
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\bin\Debug\net6.0\ThreadObjects.pdb
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.AssemblyInfo.cs
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.dll
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\refint\ThreadObjects.dll
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.pdb
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ThreadObjects.genruntimeconfig.cache
+C:\Users\ellio\source\repos\ThreadObjects\ThreadObjects\obj\Debug\net6.0\ref\ThreadObjects.dll
